@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.acc274cb.chunk.css",
+    "main.js": "/business-card/static/js/main.841bbed1.chunk.js",
+    "main.js.map": "/business-card/static/js/main.841bbed1.chunk.js.map",
+    "runtime~main.js": "/business-card/static/js/runtime~main.9ff25d6e.js",
+    "runtime~main.js.map": "/business-card/static/js/runtime~main.9ff25d6e.js.map",
+    "static/js/2.00ccda25.chunk.js": "/business-card/static/js/2.00ccda25.chunk.js",
+    "static/js/2.00ccda25.chunk.js.map": "/business-card/static/js/2.00ccda25.chunk.js.map",
+    "index.html": "/business-card/index.html",
+    "precache-manifest.71fb764e8ad1958450ec172035646f8c.js": "/business-card/precache-manifest.71fb764e8ad1958450ec172035646f8c.js",
+    "service-worker.js": "/business-card/service-worker.js",
+    "static/css/main.acc274cb.chunk.css.map": "/business-card/static/css/main.acc274cb.chunk.css.map",
+    "static/media/avatar.png": "/business-card/static/media/avatar.11904fa9.png",
+    "static/media/babel.png": "/business-card/static/media/babel.62711ea5.png",
+    "static/media/bootstrap4.png": "/business-card/static/media/bootstrap4.5209029d.png",
+    "static/media/css3.png": "/business-card/static/media/css3.3f8e68f4.png",
+    "static/media/html5.png": "/business-card/static/media/html5.2ea01c0e.png",
+    "static/media/node.png": "/business-card/static/media/node.13361043.png",
+    "static/media/react.png": "/business-card/static/media/react.47ce6e77.png",
+    "static/media/redux.png": "/business-card/static/media/redux.59c46753.png",
+    "static/media/webpack.png": "/business-card/static/media/webpack.e051f1a2.png"
+  }
+}
